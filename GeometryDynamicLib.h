@@ -33,6 +33,7 @@ namespace Geometry {
         double perimeter() const;
         void display() const;
     };
+
 }
 
 #endif

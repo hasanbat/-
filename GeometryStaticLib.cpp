@@ -33,5 +33,6 @@ namespace Geometry {
     double trianglePerimeter(double side) {
         if (side <= 0) throw std::invalid_argument("Side must be positive");
         return 3 * side;
+ 
     }
 }
