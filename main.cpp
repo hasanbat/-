@@ -5,6 +5,7 @@
 int main() {
     using namespace Geometry;
 
+    
     // Использование статических функций
     std::cout << "Static functions:" << std::endl;
     std::cout << "Square area: " << squareArea(5) << std::endl;
